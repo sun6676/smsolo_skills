@@ -1,0 +1,4 @@
+interface:
+  display_name: "硕士论文答辩PPT生成器"
+  short_description: "生成答辩结构、视觉方案和PPTX"
+  default_prompt: "使用 $thesis-defense-ppt-generator 将我上传的硕士论文生成8分钟答辩PPT，包含结构Markdown、视觉参考图、整页图片幻灯片和演讲者备注。"
