@@ -1,0 +1,4 @@
+interface:
+  display_name: "自定义 Codex 宠物生成器"
+  short_description: "生成并打包可在 Codex 中启用的自定义宠物"
+  default_prompt: "使用 $custom-codex-pet-generator 帮我创建一个自定义 Codex 宠物：名字是 <pet_id>，形象参考 <视觉灵感>，风格要可爱、独特、适合作为数字宠物；如果需要可使用子代理并在失败时重试，完成后告诉我保存位置和启用方式。"
