@@ -1,0 +1,4 @@
+interface:
+  display_name: "dingdingdocx"
+  short_description: "Sync local Markdown reports to DingTalk Docs"
+  default_prompt: "Sync a local Markdown file to my DingTalk Documents."
