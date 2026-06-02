@@ -1,0 +1,4 @@
+interface:
+  display_name: "钉钉日历 OpenAPI"
+  short_description: "查询钉钉日程、创建会议并邀请参会人"
+  default_prompt: "帮我查询今天钉钉日程，或创建一个钉钉会议并邀请参会人。"
