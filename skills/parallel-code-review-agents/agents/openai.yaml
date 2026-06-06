@@ -1,0 +1,4 @@
+interface:
+  display_name: "Parallel Code Review Agents"
+  short_description: "Run five focused subagents for deep code review."
+  default_prompt: "Use $parallel-code-review-agents to review this code with five independent dimensions and return an overall conclusion."
