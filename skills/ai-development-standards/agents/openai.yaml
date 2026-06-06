@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Development Standards"
+  short_description: "规范 AI 协作开发中的沟通、安全、测试和提交纪律"
+  default_prompt: "按 AI 协作开发规范完成这个项目任务。"
