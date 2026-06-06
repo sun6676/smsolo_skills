@@ -1,0 +1,4 @@
+interface:
+  display_name: "Experience Distiller"
+  short_description: "Route reusable lessons into durable Codex memory."
+  default_prompt: "Use $experience-distiller to turn this task's lessons into durable Codex memory updates."
